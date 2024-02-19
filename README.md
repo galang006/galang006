@@ -4,7 +4,7 @@ Perkenalkan nama saya **Galang Satriamahesa Putra Dewa**.<br>
 
 Saya seorang **Mahasiswa Informatika** di [UPN Veteran Yogyakarta](https://www.upnyk.ac.id).<br>
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](www.linkedin.com/in/galangspd)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/galangspd)ku ya.
 
 ### Github Statistic
 <p align="left">
