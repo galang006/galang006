@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Galang Satria M., a student at UPN Veteran Yogyakarta University, pursuing a degree in Informatics. Passionate about machine learning, I'm an enthusiastic programmer currently enrolled in the Bangkit Academy program from Dicoding, specializing in Machine Learning.
+I'm Galang Satriamahesa Putra Dewa., a student at UPN Veteran Yogyakarta University, pursuing a degree in Informatics. Passionate about machine learning, I'm an enthusiastic programmer currently enrolled in the Bangkit Academy program from Dicoding, specializing in Machine Learning.
 
 ## 📚 About Me
 
