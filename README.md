@@ -6,7 +6,6 @@ I'm Galang Satriamahesa Putra Dewa, a student at UPN Veteran Yogyakarta Universi
 
 - 🎓 Student at [UPN Veteran Yogyakarta University](https://www.upnyk.ac.id/), majoring in Informatics.
 - 🤖 Enthusiastic about machine learning and its applications.
-- 🚀 Currently participating in the Bangkit Academy program from Dicoding, focusing on Machine Learning.
 
 ## 📊 GitHub Statistics
 
