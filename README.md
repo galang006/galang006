@@ -20,5 +20,6 @@ I'm Galang Satriamahesa Putra Dewa, a student at UPN Veteran Yogyakarta Universi
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/galangspd)
 - 🤗 [HuggingFace](https://huggingface.co/galang006)
+- 📘 [Kaggle](https://www.kaggle.com/galangsatriamahesapd)
 
 Feel free to explore my repositories, and let's connect! 🌟
