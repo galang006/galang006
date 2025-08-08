@@ -1,14 +1,15 @@
 # Hi there! 👋
 
 Hi, I'm Galang Satriamahesa Putra Dewa!
-Informatics graduate from UPN "Veteran" Yogyakarta with a passion for Machine Learning and AI. Experienced in computer vision projects including object detection, segmentation, and model deployment.
+Informatics graduate from UPN "Veteran" Yogyakarta with a passion for Machine Learning and AI. Experienced in computer vision projects including object detection, segmentation, and model deployment gained through my internship at DataIns (PT Global Data Inspirasi).
 
 I enhanced my skills at Bangkit Academy by Dicoding, specializing in Machine Learning, and I’m eager to contribute to innovative AI projects.
 
 ## 📚 About Me
 
-- 🎓 Student at [UPN Veteran Yogyakarta University](https://www.upnyk.ac.id/), majoring in Informatics.
-- 🤖 Enthusiastic about machine learning and its applications.
+-🎓 Graduate from UPN Veteran Yogyakarta University, with a degree in Informatics.
+-🤖 Passionate about Machine Learning and AI, with hands-on experience from Bangkit Academy by Dicoding, specializing in Machine Learning.
+-💼 Former AI Engineer Intern at DataIns (PT Global Data Inspirasi), working on computer vision projects including object detection, segmentation, and model deployment.
 
 ## 📊 GitHub Statistics
 
